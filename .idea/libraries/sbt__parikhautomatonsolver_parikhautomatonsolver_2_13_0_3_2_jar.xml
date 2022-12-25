@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: parikhautomatonsolver:parikhautomatonsolver_2.13:0.3.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/parikhautomatonsolver/parikhautomatonsolver_2.13/0.3.2/jars/parikhautomatonsolver_2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/parikhautomatonsolver/parikhautomatonsolver_2.13/0.3.2/docs/parikhautomatonsolver_2.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/parikhautomatonsolver/parikhautomatonsolver_2.13/0.3.2/srcs/parikhautomatonsolver_2.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
